@@ -16,4 +16,4 @@ Predicting inference data using the best models.
 7. **Model Deployment**  
 All necessary files for model deployment using _Streamlit_ and [_HuggingFace_](https://huggingface.co/spaces/basyirasabita/seoul-bike-demand).
 
-Coded and Analyzed by **Basyira Sabita** :blossom::sparkles: - Feb, 2024
+Coded and Analyzed by **Basyira Sabita** 👩‍💻:blossom::sparkles: - Feb, 2024
