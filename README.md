@@ -1,4 +1,4 @@
-# Seoul Bike Sharing Demand :bike:
+# Seoul Bike Sharing Demand  :bike:
 
 This project involves supervised learning regression to forecast [bike sharing demand in Seoul](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand) throughout the year. The process included in this project consists of:  
 1. **Introduction**  
@@ -16,4 +16,4 @@ Predicting inference data using the best models.
 7. **Model Deployment**  
 All necessary files for model deployment using _Streamlit_ and [_HuggingFace_](https://huggingface.co/spaces/basyirasabita/seoul-bike-demand).
 
-Coded and Analyzed by **Basyira Sabita** - Feb, 2024
+Coded and Analyzed by **Basyira Sabita** :blossom::sparkles: - Feb, 2024
