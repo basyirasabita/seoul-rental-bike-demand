@@ -1,0 +1,7 @@
+pandas
+seaborn
+numpy
+matplotlib
+pickleshare
+scikit-learn==1.3.2
+feature_engine

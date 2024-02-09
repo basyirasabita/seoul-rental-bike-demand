@@ -1,0 +1,2 @@
+Dataset: https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand
+Deployment: https://huggingface.co/spaces/basyirasabita/seoul-bike-demand
